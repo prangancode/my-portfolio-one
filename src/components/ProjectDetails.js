@@ -71,4 +71,6 @@ export default ProjectDetails;
 
 // <a href="https://ibb.co/8cY5Lgq"><img src="https://i.ibb.co/Zm28pz5/healthcare-website-screenshot1.jpg" alt="healthcare-website-screenshot1" border="0"></a>
 
+// <a href="https://ibb.co/zJqsT2V"><img src="https://i.ibb.co/8c1MLxg/prangan-img-1.jpg" alt="prangan-img-1" border="0"></a>
+
 
