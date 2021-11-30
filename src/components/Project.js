@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import projects from '../projectData';
 
 const Project = () => {
@@ -40,6 +41,11 @@ const Project = () => {
                                     <a href={project.link} target='_blank' rel='noreferrer'>
                                         <img src='./images/icons/external-link.svg' alt='link to live website' width='24px' height='24px' />
                                     </a>
+                                    <Link to={`/projectDetails/${project.id}`}>
+                                        <button className='border border-gray-500 px-2 py-1 rounded-lg text-sm'>
+                                            Details
+                                        </button>
+                                    </Link>
                                 </div>
                             </div>
                         </article>

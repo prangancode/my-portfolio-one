@@ -1,0 +1,70 @@
+[
+    {
+        "id": 1,
+        "title": "Wheels on Wings - Niche products Web App",
+        "image_url": "https://i.ibb.co/kJ6cXCj/niche-product-screenshot1.jpg",
+        "description": "A Full stack web application where user can order bicycles online. Login system with firebase and private routes. Dashboard for users and admins where admins can do CRUD operations and users can give reviews and monitor their orders.",
+        "description_details": [
+            "1. It is a Bicycle Related website. You can get all kind of cycle related information here. This website is hosted by firebase. The server is deployed in Heroku and for database we used MongoDB",
+            "2. In the home page, there are five parts, banner, all Cycles, introduction, reviews along with header and footer",
+            "3. If anyone want to book the cycles he / she have to register / login to the website. After successful login, you can see the details of the services and then able to book.",
+            "4. There is a private route for book now button in cycles section which is located in home page and for whice you have to login to see the details. And, also there is About us route in the header.",
+            "5. If the user is logged in then he can see see MY orders,reviews and pay in dashboard route ,situated in sidebar section and if Admin logs in then he/she can see add a product, manage all products,make an admin and manage all order. If the admin wants then he/she can make another user admin."
+        ],
+        "tools": [
+            "React",
+            "Firebase",
+            "MongoDB",
+            "Node",
+            "Express"
+        ],
+        "github_client": "https://github.com/prangancode/niche-bicycle-client-side-a12",
+        "github_server": "https://github.com/prangancode/niche-bicycle-server-side-a12",
+        "link": "https://niche-product-website-6d655.web.app/"
+    },
+    {
+        "id": 2,
+        "title": "TRAVELATA – Tour Agency Web App",
+        "image_url": "https://i.ibb.co/VpHNg9v/tourism-website-cf4cd-web-app.jpg",
+        "description": "A single page full stack traveling website. Login system with firebase and private routes.Dashboard for users and admins where admins can do CRUD operations.",
+        "description_details": [
+            "1. It's a Tourism/Travel Agency related website. You can get all kind of tourism related information here. This website is hosted by firebase.",
+            "2. In the home page, there are five parts, banner, tour packages, how it work, suggestions for discovery, our newsletter along with header and footer.",
+            "3. If anyone want to see the details of services he / she have to register / login to the website. After successful login, you can see the details of the services. The data we get here is from MongoDB.",
+            "4. There is a private route for book now button in packages section which is located in home page and for whice you have to login to see the details. And, also there is About us route in the header.If the user is logged in then he can see see MY BOOKINGS, MANAGE ALL and ADD Package buttons in header section.",
+            "5. There is a login page in the website, you can toggle to register if you are a new user. Your name will be shown in the header when you are in login state. Login / registration form was implemented by firebase Authentication."
+        ],
+        "tools": [
+            "React",
+            "Firebase",
+            "MongoDB",
+            "Node",
+            "Express"
+        ],
+        "github_client": "https://github.com/prangancode/tourism-website-client-side-a11",
+        "github_server": "https://github.com/prangancode/tourism-website-server-side-a11",
+        "link": "https://tourism-website-cf4cd.web.app/"
+    },
+    {
+        "id": 3,
+        "title": "EVER CARE HOSPITAL – Healthcare Website",
+        "image_url": "https://i.ibb.co/Zm28pz5/healthcare-website-screenshot1.jpg",
+        "description": "A modern website for hospital. Where user can see all services and find a doctor for treatment. User can sign in with email or google.",
+        "description_details": [
+            "1. It's a Healthcare related Hospital website. You can get all kind of hospital services related information here. This website is hosted by firebase.",
+            "2. In the home page, there are four parts, banner, services, expertise, doctors along with header and footer.",
+            "3. If anyone want to see the details of services he / she have to register / login to the website. After successful login, you can see the details of the services.",
+            "4. There are two private route in the header section. For whice you have to login to see the details. And, also there are doctors, About us route in the header.",
+            "5. There is a login page in the website, you can toggle to register if you are a new user. Your name will be shown in the header when you are in login state. Login / registration form was implemented by firebase Authentication."
+        ],
+        "tools": [
+            "React",
+            "API",
+            "MongoDB",
+            "Tailwind CSS",
+            "Firebase"
+        ],
+        "github_client": "https://github.com/prangancode/healthcare-related-website-a10",
+        "link": "https://healthcare-web-98117.web.app/"
+    }
+]

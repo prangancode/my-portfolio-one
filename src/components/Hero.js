@@ -27,7 +27,7 @@ const Hero = () => {
                     I have a passion for developing user-friendly, accessible and responsive websites. I never stop learning and for me, each new project is another adventure.{' '}
                 </p>
                 <a href="mailto:prangan.sen1@gmail.com" target="_blank" rel="noreferrer">
-                    <button class="bg-indigo-500 hover:bg-grey text-grey-darkest font-bold py-2 px-4 rounded inline-flex items-center">
+                    <button class="bg-indigo-500 hover:bg-grey text-grey-darkest font-bold py-2 px-4 mx-3 rounded inline-flex items-center">
                         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-2" viewBox="0 0 20 20" fill="currentColor">
                             <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
                         </svg>
@@ -35,7 +35,7 @@ const Hero = () => {
                     </button>
                 </a>
                 <a href="./Prangan Sen Resume.pdf" download>
-                    <button class="bg-red-500 hover:bg-grey text-grey-darkest font-bold py-2 mx-3 px-4 rounded inline-flex items-center">
+                    <button class="bg-red-500 hover:bg-grey text-grey-darkest font-bold py-2 my-3 px-4 rounded inline-flex items-center">
                         <svg class="w-4 h-4 mr-2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20"><path d="M13 8V2H7v6H2l8 8 8-8h-5zM0 18h20v2H0v-2z" /></svg>
                         <span>Download Resume</span>
                     </button>
